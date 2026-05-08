@@ -1,4 +1,10 @@
-### Sociological Contents Linked to the Uzbek Telecom Scandal (2010)
+# SS2018 Sociological Contents Linked to the Uzbek Telecom Scandal (2010)
+
+## Course: SS2018 Sociology
+
+## Instructor & Project Supervisor: Dr. Kauser Malik
+
+## Overview
 
 1. **Social Structure & Institutions**  
    - Informal power hierarchies replacing formal institutions.  
