@@ -2,7 +2,7 @@
 
 ## Course: SS2018 Sociology
 
-## Instructor & Project Supervisor: Dr. Kauser Malik
+## Instructor: Dr. Kauser Malik
 
 ## Overview
 
